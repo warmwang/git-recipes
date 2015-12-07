@@ -1,1 +1,0 @@
-![](https://www.atlassian.com/git/images/atlassian-getting-git-right.jpg)
