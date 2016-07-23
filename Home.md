@@ -1,4 +1,4 @@
-**第一篇 Git 是什么？**
+**第1篇 Git 是什么？**
 
 - **第1章** [果壳中的 Git](https://github.com/geeeeeeeeek/git-recipes/wiki/1.1-%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84-Git)
 
