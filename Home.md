@@ -8,7 +8,12 @@
 
 - **第1章** [快速指南](https://github.com/geeeeeeeeek/git-recipes/wiki/2.1-%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97)
 - **第2章** [创建代码仓库](https://github.com/geeeeeeeeek/git-recipes/wiki/2.2-%E5%88%9B%E5%BB%BA%E4%BB%A3%E7%A0%81%E4%BB%93%E5%BA%93)
-- **第3章** [保存你的更改](https://github.com/geeeeeeeeek/git-recipes/wiki/2.3-%E4%BF%9D%E5%AD%98%E4%BD%A0%E7%9A%84%E6%9B%B4%E6%94%B9)
+- **第3章 保存你的更改**
+	- 缓存文件：[git add](https://github.com/geeeeeeeeek/git-recipes/wiki/2.3.1-Git-add) 
+	- 提交文件：[git commit](https://github.com/geeeeeeeeek/git-recipes/wiki/2.3.2-Git-commit)
+	- 对比差异：[git diff](https://github.com/geeeeeeeeek/git-recipes/wiki/2.3.3-Git-diff)
+	- 临时储存：[git stash](https://github.com/geeeeeeeeek/git-recipes/wiki/2.3.4-Git-stash)
+	- 忽略文件：[.gitignore](https://github.com/geeeeeeeeek/git-recipes/wiki/2.3.2-.gitignore)
 - **第4章** [检查仓库状态](https://github.com/geeeeeeeeek/git-recipes/wiki/2.4-%E6%A3%80%E6%9F%A5%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81)
 - **第5章** [检出之前的提交](https://github.com/geeeeeeeeek/git-recipes/wiki/2.5-%E6%A3%80%E5%87%BA%E4%B9%8B%E5%89%8D%E7%9A%84%E6%8F%90%E4%BA%A4) 
 - **第6章** [回滚错误的修改](https://github.com/geeeeeeeeek/git-recipes/wiki/2.6-%E5%9B%9E%E6%BB%9A%E9%94%99%E8%AF%AF%E7%9A%84%E4%BF%AE%E6%94%B9)
